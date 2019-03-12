@@ -1,4 +1,4 @@
-from bspumptelcoxdr import TelcoBaseApplication
+from bspumptelco import TelcoBaseApplication
 
 
 class BSTelcoBlankApplication(TelcoBaseApplication):

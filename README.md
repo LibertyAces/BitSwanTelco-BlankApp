@@ -15,7 +15,7 @@ Modify TODOs in the ./etc/site.conf file.
 ### Install
 Install required libraries:
 ```bash
-$ pip install asab bspump bspumptelcoxdr
+$ pip install asab bspump bspumptelco
 ```
 Clone git repository to your work directory:
 ```bash

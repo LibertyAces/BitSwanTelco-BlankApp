@@ -6,7 +6,7 @@ MAINTAINER TeskaLabs Ltd (support@teskalabs.com)
 ENV LANG C.UTF-8
 
 RUN set -ex \
-	pip install bspumptelcoxdr
+	pip install bspumptelco
 
 RUN set -ex \
 	mkdir /opt/bstelco-blank-app
