@@ -1,0 +1,28 @@
+{
+	"thead": [{
+			"fname": "DateOfChange"
+		}, {
+			"fname": "OperTADIG"
+		}, {
+			"fname": "NetTADIG"
+		}, {
+			"fname": "MCC"
+		}, {
+			"fname": "MNC"
+		}
+	],
+	"tbody": [{
+			"DateOfChange": "1111273200",
+			"OperTADIG": "TEST1",
+			"NetTADIG": "TEST1",
+			"MCC": "100",
+			"MNC": "10"
+		}, {
+			"DateOfChange": "1111273200",
+			"OperTADIG": "TEST2",
+			"NetTADIG": "TEST2",
+			"MCC": "200",
+			"MNC": "20"
+		}
+	]
+}
