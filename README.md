@@ -7,7 +7,7 @@
 
 
 ## Configure
-Modify TODOs in the ./etc/site.conf file.
+Modify TODOs in the `./etc/site.conf` file.
 
 
 ## Run on your computer
@@ -15,7 +15,9 @@ Modify TODOs in the ./etc/site.conf file.
 ### Install
 Install required libraries:
 ```bash
-$ pip install asab bspump bspumptelco
+$ pip install asab
+$ pip install git+https://github.com/LibertyAces/BitSwanPump.git
+$ pip install git+https://[location of the BitSwan For Telco repository].git
 ```
 Clone git repository to your work directory:
 ```bash
